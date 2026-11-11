@@ -1,0 +1,5 @@
+DDL (define/change structure): CREATE, ALTER, DROP, TRUNCATE, RENAME
+DQL/DRL (retrieve data): SELECT
+DML (modify stored rows): INSERT, UPDATE, DELETE
+DCL (manage privileges): GRANT, REVOKE
+TCL (manage transactions): START TRANSACTION, COMMIT, ROLLBACK, SAVEPOINT
